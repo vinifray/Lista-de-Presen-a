@@ -1,11 +1,7 @@
 Lucas Matheus Santos Da Silva
 Marcio Tanuma
-<<<<<<< HEAD
 Leticia Regina Honorio Francisco
-<<<<<<< HEAD
 Ana Paula Simplicio
-=======
-=======
-Tacilia Cristina de Almeida 
->>>>>>> 9acd066 (Adicionar nome na lista)
->>>>>>> 51a32d6 (Adicionar nome na lista)
+Tacilia Cristina de Almeida
+I'm batman
+
